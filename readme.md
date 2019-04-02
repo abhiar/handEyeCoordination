@@ -1,0 +1,2 @@
+- Hand Eye Coordination using Extended KSOM.
+- Following a given path using partially supervised learning
